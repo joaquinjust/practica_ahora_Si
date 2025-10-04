@@ -10,17 +10,10 @@ public class Gato {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
-
-    @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id2;
-
     private String perro;
     private String raza;
-
     private String vacuna;
 
 
-"LUCIANA QUE ERGA ES ESTO TODOS HEMSO EHCHO 100 COSAS EN SU WEBADA Y TU ANDA PRME WENTITRRY NNOMÁS NJODER"
+//"LUCIANA QUE ERGA ES ESTO TODOS HEMSO EHCHO 100 COSAS EN SU WEBADA Y TU ANDA PRME WENTITRRY NNOMÁS NJODER"
 }
