@@ -1,4 +1,4 @@
-package caballito.nazi;
+package org.example.prac1.nazi.caballito;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

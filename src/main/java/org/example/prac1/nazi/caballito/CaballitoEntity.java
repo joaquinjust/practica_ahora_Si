@@ -1,4 +1,4 @@
-package caballito.nazi;
+package org.example.prac1.nazi.caballito;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
